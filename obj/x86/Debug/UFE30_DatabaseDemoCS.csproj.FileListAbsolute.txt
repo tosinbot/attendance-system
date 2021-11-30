@@ -1,0 +1,10 @@
+C:\Users\BISTASOL\Desktop\UFE30_DatabaseDemoCS\bin\x86\Debug\UFE30_DatabaseDemoCS.exe
+C:\Users\BISTASOL\Desktop\UFE30_DatabaseDemoCS\bin\x86\Debug\UFE30_DatabaseDemoCS.pdb
+C:\Users\BISTASOL\Desktop\UFE30_DatabaseDemoCS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BISTASOL\Desktop\UFE30_DatabaseDemoCS\obj\x86\Debug\UFE30_DatabaseDemoCS.Properties.Resources.resources
+C:\Users\BISTASOL\Desktop\UFE30_DatabaseDemoCS\obj\x86\Debug\Suprema.UFE30_DatabaseDemo.resources
+C:\Users\BISTASOL\Desktop\UFE30_DatabaseDemoCS\obj\x86\Debug\Suprema.UserInfoForm.resources
+C:\Users\BISTASOL\Desktop\UFE30_DatabaseDemoCS\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\BISTASOL\Desktop\UFE30_DatabaseDemoCS\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\BISTASOL\Desktop\UFE30_DatabaseDemoCS\obj\x86\Debug\UFE30_DatabaseDemoCS.exe
+C:\Users\BISTASOL\Desktop\UFE30_DatabaseDemoCS\obj\x86\Debug\UFE30_DatabaseDemoCS.pdb

@@ -1,0 +1,1 @@
+Provider=SQLOLEDB.1; Data Source=EVOTING\\EVOTER;Network Library=DBMSSOCN;Initial Catalog=ASPNETDB;User ID=sa;Password=p@$$word
